@@ -1,7 +1,7 @@
-.body{
+body{
     background-color: lime;
 }
 
-img{
+#image{
     position: absolute;
 }
