@@ -1,3 +1,7 @@
 .body{
     background-color: lime;
 }
+
+img{
+    position: absolute;
+}
